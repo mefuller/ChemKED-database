@@ -37,23 +37,23 @@ datapoints:
         - species-name: C5H12
           SMILES: CCCCC
           amount:
-            - 5.4746745E-3
+            - 6.5175410e-03
         - species-name: O2
           SMILES: '[O][O]'
           amount:
-            - 1.2106812E-1
+            - 1.0428066e-01
         - species-name: N2
           SMILES: 'N#N'
           amount:
-            - 8.3998320E-1
+            - 4.4443423e-01
         - species-name: AR
           SMILES: '[Ar]'
           amount:
-            - 0.0000000E+0
+            - 4.4443423e-01
         - species-name: NO2
           SMILES: 'O=N[O]'
           amount:
-            - 3.3474003E-2
+            - 3.3333000e-04
         - species-name: HE
           SMILES: '[He]'
           amount:
