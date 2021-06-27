@@ -11,6 +11,8 @@ reference:
       ORCID: 0000-0003-0002-0717
     - name: Philipp Morsch
       ORCID: 0000-0001-6249-0648
+    - name: Matthias Preußker
+      ORCID: 0000-0002-3239-3713
     - name: C. Franklin Goldsmith
       ORCID: 0000-0002-2212-0172
     - name: K. Alexander Heufer
@@ -41,7 +43,7 @@ datapoints:
         - species-name: O2
           SMILES: '[O][O]'
           amount:
-            - 1.0421112E-1
+            - 0.10371112
         - species-name: N2
           SMILES: 'N#N'
           amount:
@@ -50,8 +52,8 @@ datapoints:
           SMILES: '[Ar]'
           amount:
             - 0.0000000E+0
-        - species-name: NO
-          SMILES: 'O=[N]'
+        - species-name: NO2
+          SMILES: 'O=N[O]'
           amount:
             - 9.9999683E-4
         - species-name: HE
