@@ -43,7 +43,7 @@ datapoints:
         - species-name: O2
           SMILES: '[O][O]'
           amount:
-            - 0.10303647
+            - 0.103036468
         - species-name: N2
           SMILES: 'N#N'
           amount:
